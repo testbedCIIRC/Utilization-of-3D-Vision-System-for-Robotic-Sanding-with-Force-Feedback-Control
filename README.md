@@ -18,3 +18,6 @@ To get the password to extract the zip file with source codes, please contact on
 - **Force Feedback Control:** Dynamic adjustment of the robot’s path based on real-time force feedback to maintain consistent pressing force.
 - **OPC UA Communication:** Data exchange between system components.
 - **Augmented Reality Integration:** Use of Hololens 2 for visualization and interaction with the sanding paths.
+
+# Video
+[![Watch the video](https://img.youtube.com/vi/9BlXWIYUbIw/0.jpg)](https://youtu.be/9BlXWIYUbIw)
