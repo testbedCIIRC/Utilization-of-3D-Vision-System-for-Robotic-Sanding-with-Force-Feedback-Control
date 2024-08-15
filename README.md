@@ -21,3 +21,4 @@ To get the password to extract the zip file with source codes, please contact on
 
 # Video
 [![Watch the video](https://img.youtube.com/vi/9BlXWIYUbIw/0.jpg)](https://youtu.be/9BlXWIYUbIw)
+[![Watch the video](https://img.youtube.com/vi/n_qs-5frZwE/0.jpg)](https://youtu.be/n_qs-5frZwE)
